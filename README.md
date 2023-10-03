@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I am Anton Shchetnikovich, a **Mobile Developer** (specializing in **iOS Applications**)
+I am Anton Shchetnikovich
 
 # Links
 
